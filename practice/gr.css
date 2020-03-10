@@ -1,0 +1,479 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    background-color: azure;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#header
+{
+    box-sizing: border-box;
+    width:100%;
+    height:60px;
+    background-color:#39424E;
+    position:relative;
+}
+#header img
+{
+    float: left;
+    width:36.513px;
+    height:40px;
+    margin:10px 0px 10px 128px;
+}
+.list
+{
+    list-style-type: none;
+    margin:21.2px 0px;
+    position:absolute;
+    left:168px;
+    z-index : 1;
+}
+.li-item
+{
+    display:inline;
+    margin-left: 30px;
+    font-size:14px;
+    font-family:OpenSans,Arial, Helvetica, sans-serif;
+}
+.nav-links
+{
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    color:#B7C9CC;
+}
+.search 
+{
+    box-sizing:border-box;
+    position: absolute;
+    left:837px;
+    z-index: 2;
+    width:659px;
+    border:0px;
+    color:#B7C9CC;
+    background-color:#39424E;
+}
+.search input
+{
+    border:0px;
+    margin:9px 0px;
+    width:100px;
+    height:40px;
+    color:#B7C9CC;
+    background-color:#39424E;
+    font-size: 16px;
+}
+#message-icon
+{
+    margin-left:40px;
+}
+#bell
+{
+    margin-left:40px;
+}
+#user
+{
+    margin-left:60px;
+}
+.dropdown 
+{
+    display:inline;
+    position:relative;
+    text-align:center;
+}
+.username
+{
+    margin-left:20px;
+    text-transform:uppercase;
+}
+.dropdown-list-profile
+{
+    display:none;
+    position:absolute;
+    left: 0px;
+    z-index:1;
+    text-align: center;
+    list-style-type: none;
+    background-color:#FFFFFF;
+    color:#0E141E;
+}
+.dropdown:hover .dropdown-list-profile{
+    display:block;
+}
+.dropdown-list-profile-user
+{
+font-style: normal;
+font-weight: bold;
+border-bottom:0.5px solid black;
+z-index: 1;
+font-family:OpenSans,Arial, Helvetica, sans-serif;
+margin:15px;
+padding:10px;
+}
+.ul{padding-inline-start:0px 0px 0px 0px; }
+body{
+    background-color: #f3f7f7;
+}
+.pr{margin-left: 50px;}
+.book{margin-left: 85%;
+margin-top: -23px;
+padding: 15px;
+font-size: 16px;}
+
+.kit{width: 22%;
+margin-left: 430px;
+margin-top: -184px;}
+a{color: green;
+text-decoration: none;}
+.by{
+    font-style: bold;
+    margin-bottom: 15px;
+	font-size: 45px;
+    background-color:#424242;
+    background-size: cover;
+    }
+    .if{color: grey;
+    font-size: 13px;
+margin-left: -20px;
+margin-top: -15px;}
+    .im{
+        margin-top: 3px;
+        margin-bottom: 3px;
+        margin-left: 30px;
+    }
+    .dfs{width: 10%;
+    margin-left: 1060px;
+margin-top: -200px;}
+    li{
+        display: inline-block;
+        padding: 12px 16px ;
+        font-size: 15px;
+        color: white;
+
+
+    }
+    .hk{font-size: 20px;
+    margin-top: -40px;
+font-weight: bold;}
+
+    .cf2{margin-top: -11%;
+        font-style: normal;
+        margin-left: 445px;
+        font-size: 13px;
+        color: grey;
+    
+    }
+    .pi{
+        margin-left: 30px;
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .hu{
+        left: 40px;
+        padding: 0px 20px;
+        background-color:white;
+        margin-top: 2px;
+        font-size: 11px;
+    }
+    h4{font-size: 18px;
+    margin:30px 0px;
+margin-left: 30px;}
+    .bu{ background-color: white; 
+        border: none;
+        text-decoration: none;
+        color: black;
+        height: 220px;
+        width: 360px;
+        display: inline;
+        
+       
+margin-top: auto;
+        text-align: left;
+        font-size: 16px;
+        margin: 14px 20px;}
+     .button {
+    background-color: white; 
+    border: none;
+    text-decoration: none;
+    color: black;
+    padding: 30px 80px 30px 30px;
+    
+   width: 570px;
+   height: 260px;
+    text-align: left;
+    font-size: 16px;
+    margin: 14px 38px;
+  }
+  
+  .butt {
+    background-color: white; /* Green */
+    border:none ;
+    text-decoration: none;
+    color: black;
+    margin-top: -230px;
+    margin-left: 825px;
+    display: inline;
+   width: 360px;
+   height: 220px;
+    text-align: left;
+    font-size: 16px;
+    
+  }
+  .gf{
+color: black;
+margin-top: 190px;
+}
+
+.gf1{ position: absolute;
+    margin-left: 0px;
+    margin-top: -180px;
+    color:#738f93;
+    font-size: 12px;
+}
+    .gf3{ position: relative;
+        
+        margin-top: -170px;
+        font-size: 26px;
+        font-weight: bold;
+        color:black;}
+
+
+       
+  .bn{color: green;
+                font-size: 20px;
+            border:12px;
+        border-color: green;}
+  .bf{ position: absolute;
+    margin-top: -775px;
+    margin-left: 30px;
+    color: black;}
+    
+    .bf1{ position: absolute;
+        margin-top: 700px;
+        margin-left: -20px;
+        font-size: 12px;
+        color:blue;}
+        .bf3{ position: relative;
+        margin-left: -22px;
+        margin-top: 730px;
+            font-size: 18px;
+            font-weight: bold;
+            color:black;
+        }
+
+.hy{left: 50px;}
+  .cf{ position: absolute;
+    top:24pc;
+    left:6pc;
+    color: black;}
+    .cf1{ position: absolute;
+        margin-top: 640px;
+        margin-left: 350px;
+        color:blue;
+    font-size: 12px;}
+        .cf3{ position: relative;
+            margin-left: 345px;
+        margin-top: 670px;
+            font-size: 18px;
+            font-weight: bold;
+            color:black;}
+            .df{ position: absolute;
+                top:24pc;
+                left:6pc;
+                color: black;}
+                .df2{margin-top: -10%;
+                margin-left: 62.8%;
+                font-size: 13px;
+            color: grey;}
+                .df1{ position: absolute;
+                    margin-top: 640px;
+                    margin-left: 750px;
+                    font-size: 12px;
+                    color:blue;}
+                    .df3{ position: relative;
+                        margin-left: 750px;
+                    margin-top: 660px;
+                        font-size: 18px;
+                        font-weight: bold;
+                        color:black;}
+  .af{ position: absolute;
+    top:24pc;
+    left:6pc;
+    color: black;}
+    .af1{ position: absolute;
+        font-size: 12px;
+        text-align: left;
+        margin-top: -50px;
+        margin-left: 625px;
+        color:#738f93;}
+        .af3{ position: relative;
+            left:-19px;
+            margin-top: -28px;
+            margin-left: 640px;
+            font-size: 32px;
+            font-weight: bold;
+            color:black;}
+                   
+        .input{margin-left: 180px;
+        background-color:black;
+border: 0px;
+    }
+
+.jhdj{
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.bt {
+    border: none;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .btn:hover {background: #eee;}
+   .success {
+      font-size: 18px;
+    margin-top: -16%;
+    margin-left: 48%;  
+    color: green;}
+  .b2{
+        border: none;
+        background-color: white;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+      }
+            .b2:hover {background: #eee;}
+      .ty{
+             font-size: 18px;
+         color: green;}
+.hus{margin-left: 35px;}
+  .btn {   
+    background-color:white;
+    color: black;
+    padding: 19px 24px;
+width:398.95px;
+height: 61px;
+display:inline-block;
+    font-size: 18px;
+    text-align: left;
+    cursor: pointer;
+    vertical-align: baseline;
+  }
+  .btn:hover {
+      box-shadow: #424242;
+    background-color:white; 
+  }
+  .tutor{
+    margin-top: -55%;  
+    margin-left: 42%;}
+  .tu{
+      font-weight: bold;
+      font-size: 27px;
+  }
+  .yu{padding: 15px;
+color:green;}
+.lo{font-size: 20px;
+padding: 10px;
+color: green;
+background-color: white;
+border: 0px;}
+@media screen and (max-width:1440px){
+    .df2{margin-left: 850px;
+    margin-top: -120px;}
+}
+@media screen and (max-width:1024px)
+{
+                .button{width: 400px;
+                height: 260px;
+            }
+                .kit{margin-left: 270px;
+                margin-top: -205px;}
+                .btn{width: 316.61px;}
+                .af{margin-left: -180px;}
+                .dfs{margin-left: 920px;}
+                .cf{margin-top: 0px;
+                margin-left:-70px;}
+                .cf2{margin-top: -150;
+                margin-left: 375px;}
+                .bu{width: 288px;}
+                .butt{width: 288px;
+                margin-left: 700px;}
+                .df{margin-left: -130px;}
+                .df2{margin-left: 720px;}
+                .search{display: none;}
+                .tu{margin-left: 30px;}
+                .df3{margin-top: 710px;}
+                .df1{margin-top: 680px;}
+                .cf1{margin-top: 680px;}
+                .cf3{margin-top: 710px;}
+}
+
+@media screen and (max-width:768px)
+{
+    
+.button{width: 280px;
+display: inline;
+margin-left: 20px;}
+.kit{margin-left: 150px;
+width: 40%;
+margin-top: -230px;}
+.af{margin-left: -330px;}
+.dfs{display: none;}
+.btn{width: 241px;}
+.bu{width: 220px;}
+.butt{width: 220px;
+margin-left: 530px;}
+
+.cf{margin-left: -150px;}
+.cf1{margin-left: 350px;
+margin-top: 680px;}
+.cf3{margin-top: 700px;}
+.cf2{margin-left: 300px;}
+.df{margin-left: -300px;}
+.df2{margin-left: 550px;}
+.df1{margin-top: 680px;}
+.df3{margin-top: 700px;}
+
+}
+
+@media screen and (max-width:425px)
+{.jkl{background-color: black;
+padding-top:50px;
+width: 425px;}
+    #header{display: none;}
+.dfs{margin-left:50pc;
+width: 10%;}
+.kit{margin-left:210px;
+width: 30%;
+margin-top: -13pc;}
+.tu{margin-left: 30px;
+}
+.butt{width: 385px;
+margin-left: 20px;
+margin-top: 20px;}
+.button{width: 385px;}
+.bu{width: 385px;}
+.btn{width: 385px;
+font-size: 18px;
+font-weight: bold;}
+.af{margin-top: 270px;
+margin-left: -650px;}
+.df{margin-left: 50px;}
+.cf1{margin-left: 100px;
+margin-top: 650px;}
+.cf{margin-top: 1060px;
+margin-left: -150px;}
+.cf3{margin-left: 100px;}
+.cf2{margin-left: 50px;}
+.df{margin-left: -800px;
+margin-top: 1300;}
+.df2{margin-left: 50px;}
+.book{display: none;}
+}
+
